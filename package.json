@@ -1,0 +1,19 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 Semana 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelDavidFR/spiderverse.git"
+  },
+  "author": "Angel Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelDavidFR/spiderverse/issues"
+  },
+  "homepage": "https://github.com/AngelDavidFR/spiderverse#readme"
+}
